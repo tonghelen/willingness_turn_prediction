@@ -1,4 +1,4 @@
-# willingness_turn_prediction
+# Willingness & Turn Prediction
 
 This repository contains PyTorch code for the paper 
 
