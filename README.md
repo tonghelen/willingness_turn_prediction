@@ -1,6 +1,8 @@
 # willingness_turn_prediction
 
-This repository contains PyTorch code for the paper **"Can Prediction of Turn-management Willingness Improve Turn-changing Modeling?"** in *IVA*, 2020.
+This repository contains PyTorch code for the paper 
+
+**"Can Prediction of Turn-management Willingness Improve Turn-changing Modeling?"** in *IVA*, 2020.
 
 The distribution of files are:
 - `features.py`: functions to load extracted features.
